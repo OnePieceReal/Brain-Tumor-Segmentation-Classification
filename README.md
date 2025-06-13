@@ -46,8 +46,8 @@ To ensure fair evaluation, the dataset was split into training, validation, and 
   <br>
 </p>
 
-<h3 align="center">Acknowledgment</h3>
-<hr>
+###Acknowledgment
+---
 
 <p align="center">
   Thank you to:<br>
