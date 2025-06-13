@@ -14,7 +14,7 @@ To ensure fair evaluation, the dataset was split into training, validation, and 
 
 **Dataset download link**: [Brain Tumor Dataset - Papers with Code](https://paperswithcode.com/dataset/brain-tumor-dataset)
 
- Distribution of Tumor Types in Dataset
+** Distribution of Tumor Types in Dataset **
 
 
 | Tumor Type | Num of Samples | Percentage |
