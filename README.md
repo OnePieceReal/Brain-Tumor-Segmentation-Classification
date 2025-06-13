@@ -48,10 +48,10 @@ To ensure fair evaluation, the dataset was split into training, validation, and 
 
 ### Acknowledgment
 ---
-Farouk Kotob  
-Mohamed Jama  
-Brian Yang  
-Jose John Mullor
+Farouk K.  
+Mohamed J. 
+Brian Y. 
+Jose J.
 
          
 
