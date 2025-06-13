@@ -51,7 +51,7 @@ To ensure fair evaluation, the dataset was split into training, validation, and 
 Farouk Kotob  
 Mohamed Jama  
 Brian Yang  
-Jose John Mullor.
+Jose John Mullor
 
          
 
