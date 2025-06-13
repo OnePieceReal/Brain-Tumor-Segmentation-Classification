@@ -46,12 +46,16 @@ To ensure fair evaluation, the dataset was split into training, validation, and 
   <br>
 </p>
 
-### Acknowledgment
----
-Farouk K.  
-Mohamed J. 
-Brian Y. 
-Jose J.
+<h3 align="center">Acknowledgment</h3>
+<hr>
+
+<p align="center">
+  Thank you to:<br>
+  <b>Farouk K.</b><br>
+  <b>Mohamed J.</b><br>
+  <b>Brian Y.</b><br>
+  <b>Jose J.</b>
+</p>
 
          
 
