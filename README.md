@@ -25,6 +25,7 @@ To ensure fair evaluation, the dataset was split into training, validation, and 
 
 ### Results
 ---
+![Image 1](Results/result_1.PNG)
 
 
 ### Evaluation Metrics (on Test Set)
