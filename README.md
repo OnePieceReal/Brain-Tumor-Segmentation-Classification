@@ -50,7 +50,7 @@ To ensure fair evaluation, the dataset was split into training, validation, and 
 ---
 
 <p align="center">
-  Thank you to:<br>
+ 
   <b>Farouk K.</b><br>
   <b>Mohamed J.</b><br>
   <b>Brian Y.</b><br>
