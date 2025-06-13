@@ -14,7 +14,8 @@ To ensure fair evaluation, the dataset was split into training, validation, and 
 
 **Dataset download link**: [Brain Tumor Dataset - Papers with Code](https://paperswithcode.com/dataset/brain-tumor-dataset)
 
-### Distribution of Tumor Types in Dataset
+## Distribution of Tumor Types in Dataset
+
 
 | Tumor Type | Num of Samples | Percentage |
 |------------|----------------|------------|
@@ -23,10 +24,11 @@ To ensure fair evaluation, the dataset was split into training, validation, and 
 | Pituitary  | 930            | 30.4%      |
 
 ### Results
-
+---
 
 
 ### Evaluation Metrics (on Test Set)
+---
 
 - **Dice Score (Segmentation)**: 0.7495  
 - **Accuracy (Classification)**: 96%
