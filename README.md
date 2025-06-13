@@ -36,3 +36,10 @@ To ensure fair evaluation, the dataset was split into training, validation, and 
 
 - **Dice Score (Segmentation)**: 0.7495  
 - **Accuracy (Classification)**: 96%
+  
+<p float="left">
+  <img src="Results/confusion_matrix.PNG" width="800"/>
+  <img src="accuracy_dice_over_time.PNG" width="800"/>
+  <img src="loss_over_time.PNG" width="800"/>
+</p>
+
