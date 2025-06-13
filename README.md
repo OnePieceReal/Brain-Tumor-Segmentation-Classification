@@ -44,7 +44,8 @@ To ensure fair evaluation, the dataset was split into training, validation, and 
   <br>
   <img src="Results/loss_over_time.PNG" width="600"/>
 </p>
-###Acknowledgment
+### Acknowledgment
+---
 Farouk Kotob           
 Mohamed Jama           
 Brian Yang           
