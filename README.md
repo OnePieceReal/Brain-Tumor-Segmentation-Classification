@@ -43,6 +43,7 @@ To ensure fair evaluation, the dataset was split into training, validation, and 
   <img src="Results/accuracy_dice_over_time.PNG" width="600"/>
   <br>
   <img src="Results/loss_over_time.PNG" width="600"/>
+  <br>
 </p>
 ### Acknowledgment
 ---
