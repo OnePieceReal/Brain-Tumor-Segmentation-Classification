@@ -1,6 +1,8 @@
 # Brain Tumor Segmentation and Classification
+---
 
 ## Introduction
+---
 
 This project presents a deep learning pipeline for automated brain tumor detection and classification, integrating both segmentation and classification tasks to enhance tumor analysis. A U-Net architecture is employed to segment tumor regions from T1-weighted MRI scans by producing binary masks that localize tumor areas. For classification, a fine-tuned ResNet-50 model categorizes the detected tumors into three classes: meningioma, glioma, and pituitary. The models were trained and evaluated on a publicly available dataset annotated for both segmentation and classification, ensuring consistency and reliability in performance assessment.
 
@@ -20,7 +22,9 @@ To ensure fair evaluation, the dataset was split into training, validation, and 
 | Glioma     | 1,426          | 46.5%      |
 | Pituitary  | 930            | 30.4%      |
 
-## Results
+### Results
+
+
 
 ### Evaluation Metrics (on Test Set)
 
